@@ -25,4 +25,4 @@ Users can register and login to get a JWT token. Using that token they can creat
 - **Database:** SQLite
 - **Testing:** Postman
 
-## Project Structure
+
